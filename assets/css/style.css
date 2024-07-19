@@ -858,7 +858,7 @@ input {
     height: 80vh;
     display: flex;
     justify-content: center;
-
+overflow-x: hidden;
     padding: 2%;
 }
 
@@ -2624,7 +2624,7 @@ width: 100%;
 height:35vh ;
 display:flex;
 padding: 3%;
-
+overflow: hidden;
 
 }
 
