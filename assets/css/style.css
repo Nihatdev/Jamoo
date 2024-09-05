@@ -3285,7 +3285,7 @@ cursor: pointer;
 
     display: flex;
     background-repeat: no-repeat;
-  background-image: url(/assets/img/png_11.png);
+  background-image: url('./assets/img/png_11.png');
     padding-left: 3%;
 }
 
